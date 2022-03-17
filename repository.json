@@ -7,8 +7,8 @@
       "game_name": "Paper Mario Randomizer",
       "version": "0.0.1",
       "uid": "pmr_item_tracker",
-      "link": "https://localhost/pmr_item_tracker.zip",
-      "documentation_url": "https://localhost/pmr_item_tracker/README.md",
+      "link": "https://github.com/IcySlurpee/pmr_item_tracker/releases/latest/download/pmr_item_tracker.zip",
+      "documentation_url": "https://github.com/IcySlurpee/pmr_item_tracker/README.md",
       "variants": [
         {
           "name": "Item Tracker w/ Map",
