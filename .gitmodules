@@ -1,0 +1,3 @@
+[submodule "pmr_map_tracker"]
+	path = pmr_map_tracker
+	url = https://github.com/IcySlurpee/pmr_map_tracker.git

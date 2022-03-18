@@ -2,23 +2,27 @@
   "name": "Paper Mario Randomizer Trackers",
   "packages": [
     {
-      "name": "PMR Item Tracker",
+      "name": "Paper Mario Randomizer - Map and Item Tracker",
       "author": "slurpee",
       "game_name": "Paper Mario Randomizer",
-      "version": "0.0.1",
-      "uid": "pmr_item_tracker",
-      "link": "https://github.com/IcySlurpee/pmr_item_tracker/releases/latest/download/pmr_item_tracker.zip",
-      "documentation_url": "https://github.com/IcySlurpee/pmr_item_tracker/README.md",
+      "version": "0.0.3",
+      "uid": "pmr_map_tracker",
+      "link": "https://github.com/IcySlurpee/pmr_map_tracker/releases/latest/download/pmr_map_tracker.zip",
+      "documentation_url": "https://github.com/IcySlurpee/pmr_map_tracker/README.md",
       "variants": [
         {
-          "name": "Item Tracker w/ Map",
+          "name": "Full Map Tracker",
           "flags": [
             "map",
-            "pins"
+            "pins",
+            "chathud"
           ]
         },
         {
-          "name": "Item Tracker"
+          "name": "Item Tracker Only",
+          "flags": [
+            "chathud"
+          ]
         }
       ]
     }
